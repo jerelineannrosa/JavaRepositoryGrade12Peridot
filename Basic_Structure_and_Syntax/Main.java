@@ -19,6 +19,9 @@ public class Main {
         System.out.println("Division");//This is division
         System.out.print("5 / 3 = ");
         System.out.println(5 / 3);
-        System.out.println("I am a student of CZSHS and currently in Grade 12 section Peridot");
+        /*This is a multi-line comment
+        that will show how to use multi-line comments in Java
+        within this comment, you can write multiple lines of text
+        withouth having to use // for each line */
     }
 }
