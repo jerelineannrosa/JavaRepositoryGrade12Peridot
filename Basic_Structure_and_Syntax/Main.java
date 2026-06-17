@@ -7,16 +7,16 @@ public class Main {
         System.out.println(223501140856l);
         System.out.println("I'm 17 years old");
         System.out.println("I live in Caloocan City");
-        System.out.println("Addition");
+        System.out.println("Addition");//This is addition
         System.out.print("5 + 3 = ");
         System.out.println(5 + 3);
-        System.out.println("Subtraction");
+        System.out.println("Subtraction");//This is subtraction
         System.out.print("5 - 3 = ");
         System.out.println(5 - 3);
-        System.out.println("Multiplication");
+        System.out.println("Multiplication");//This is multiplication
         System.out.print("5 * 3 = ");   
         System.out.println(5 * 3);
-        System.out.println("Division"); 
+        System.out.println("Division");//This is division
         System.out.print("5 / 3 = ");
         System.out.println(5 / 3);
         System.out.println("I am a student of CZSHS and currently in Grade 12 section Peridot");
